@@ -1,0 +1,10 @@
+108,Garcia,4,Physics
+105,Jones,2,Physics
+103,Williams,4,Physics
+102,Johnson,2,Electrical Engineering
+106,Miller,3,Electrical Engineering
+110,Wilson,3,Electrical Engineering
+104,Brown,1,Computer Science
+107,Davis,1,Computer Science
+109,Rodriguez,2,Computer Science
+101,Smith,3,Computer Science

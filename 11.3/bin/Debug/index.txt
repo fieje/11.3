@@ -1,0 +1,11 @@
+Computer Science,Brown,1
+Computer Science,Davis,1
+Computer Science,Rodriguez,2
+Computer Science,Smith,3
+Electrical Engineering,Johnson,2
+Electrical Engineering,Miller,3
+Electrical Engineering,Wilson,3
+physics,yu,2
+Physics,Garcia,4
+Physics,Jones,2
+Physics,Williams,4
